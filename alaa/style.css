@@ -1,0 +1,30 @@
+
+
+}
+h1{border-width: 200px; 
+  height: 75px; 
+  font-size: 50px; 
+  font-family: tahoma; 
+  margin: 10px; text-align: center;	 
+  padding: 25px;
+  
+}
+
+body {
+background-image: url('img/light-background.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+
+	font-family: serif;
+	font-color: #34495e;
+	font-style: oblique;
+	background-position: center;
+}
+
+img {
+	width: 150px;
+	height: 150px;
+
+}
+
+h2{ color: #2c3e50 }
